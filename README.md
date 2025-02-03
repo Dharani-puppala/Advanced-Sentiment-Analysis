@@ -50,10 +50,13 @@ PYTHON( Visual Studio Code ), SQL( SSMS ), EXCEL( CSV )
 9. **Apply Bucketing**
 
    -Apply the bucketing function on the sentiment scores.
-   
+  
 10. **Save to CSV File**
   
    -Save the results into a CSV file.
-  
+
+## Conclusion
+
+This project enables automated sentiment analysis on large text datasets by integrating Python with SQL, and it categorizes sentiments into predefined buckets for better understanding of the data. The output is saved in a CSV format for further use or reporting.
 
 
