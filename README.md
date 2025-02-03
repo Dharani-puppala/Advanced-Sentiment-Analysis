@@ -55,6 +55,16 @@ PYTHON( Visual Studio Code ), SQL( SSMS ), EXCEL( CSV )
   
    -Save the results into a CSV file.
 
+## Results & Insights
+  - Reviews are categorized into Positive, Negative, Neutral, Mixed Positive, and Mixed Negative.
+  - Sentiment scores are grouped into specific score buckets for further analysis.
+  - The output data can be used to enhance marketing strategies, identify product issues, and improve customer satisfaction.
+
+## Future Enhancements
+  - ✅ Incorporate machine learning models for sentiment analysis
+  - ✅ Use topic modeling to extract common themes in reviews
+  - ✅ Implement real-time sentiment analysis for dynamic insights
+
 ## Conclusion
 
 This project enables automated sentiment analysis on large text datasets by integrating Python with SQL, and it categorizes sentiments into predefined buckets for better understanding of the data. The output is saved in a CSV format for further use or reporting.
