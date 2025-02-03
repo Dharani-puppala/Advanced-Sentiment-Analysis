@@ -21,39 +21,39 @@ PYTHON( Visual Studio Code ), SQL( SSMS ), EXCEL( CSV )
 
 2. **Dowload vader_lexicon (Valence Aware Dictionary and sEntiment Reasoner) required for sentiment analysis.**
    
-    - `vaderSentiment`
+ - `vaderSentiment`
       
 3. **Fetch Data from SQL Database**
    
-   - Create a function to fetch data from your SQL database using `pyodbc` and `pandas.read_sql()`
+ - Create a function to fetch data from your SQL database using `pyodbc` and `pandas.read_sql()`
    
 4. **Perform Sentiment Analysis**
 
-   - Use the `SentimentIntensityAnalyzer` from `nltk` to calculate sentiment scores.
+- Use the `SentimentIntensityAnalyzer` from `nltk` to calculate sentiment scores.
    
 5. **Categorize Sentiment Based on Score**
 
-   - Define categories based on sentiment scores (positive, neutral, negative).
+ - Define categories based on sentiment scores (positive, neutral, negative).
    
 6. **Bucket Sentiment Scores**
 
-   - Create a function that buckets sentiment scores into predefined text categories.
+- Create a function that buckets sentiment scores into predefined text categories.
    
 7. **Apply Sentiment Analysis**
    
-   -Apply the sentiment analysis function on the dataset to get sentiment scores.
+- Apply the sentiment analysis function on the dataset to get sentiment scores.
    
 8. **Apply Sentiment Categorization**
 
-   - Apply the categorization function to the sentiment scores.
+- Apply the categorization function to the sentiment scores.
    
 9. **Apply Bucketing**
 
-   -Apply the bucketing function on the sentiment scores.
+- Apply the bucketing function on the sentiment scores.
   
 10. **Save to CSV File**
   
-   - Save the results into a CSV file.
+- Save the results into a CSV file.
 
 ## Results & Insights
   - Reviews are categorized into Positive, Negative, Neutral, Mixed Positive, and Mixed Negative.
