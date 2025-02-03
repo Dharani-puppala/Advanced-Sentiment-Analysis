@@ -1,2 +1,2 @@
 # Advanced-Sentiment-Analysis
-PYTHON( Visual Studio Code ), SQL( Ssms ), Excel(CSV)
+PYTHON( Visual Studio Code ), SQL( SSMS ), EXCEL( CSV )
